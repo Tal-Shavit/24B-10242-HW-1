@@ -22,7 +22,6 @@
         android:layout_below="@+id/title"
         android:layout_margin="16dp">
 
-        <!-- The border and background of the EditText -->
         <EditText
             android:layout_width="match_parent"
             android:layout_height="50dp"
@@ -30,7 +29,6 @@
             android:clickable="false"
             android:focusable="false" />
 
-        <!-- The TextView acting as the label on the border -->
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
@@ -43,7 +41,6 @@
             android:textColor="#000000"
             android:textSize="14sp" />
 
-        <!-- The actual EditText for input -->
         <EditText
             android:id="@+id/editTxtFirstFrame"
             android:layout_width="match_parent"
@@ -62,7 +59,6 @@
         android:layout_below="@+id/firstFrame"
         android:layout_margin="16dp">
 
-        <!-- The border and background of the EditText -->
         <EditText
             android:layout_width="match_parent"
             android:layout_height="50dp"
@@ -70,7 +66,6 @@
             android:clickable="false"
             android:focusable="false" />
 
-        <!-- The TextView acting as the label on the border -->
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
@@ -83,7 +78,6 @@
             android:textColor="#000000"
             android:textSize="14sp" />
 
-        <!-- The actual EditText for input -->
         <EditText
             android:id="@+id/editTxtSecFrame"
             android:layout_width="match_parent"
@@ -103,7 +97,6 @@
         android:layout_below="@id/secFrame"
         android:layout_margin="16dp">
 
-        <!-- The border and background of the EditText -->
         <EditText
             android:layout_width="match_parent"
             android:layout_height="50dp"
@@ -111,7 +104,6 @@
             android:clickable="false"
             android:focusable="false" />
 
-        <!-- The TextView acting as the label on the border -->
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
@@ -124,7 +116,6 @@
             android:textColor="#000000"
             android:textSize="14sp" />
 
-        <!-- The actual EditText for input -->
         <EditText
             android:id="@+id/editTxtThirdFrame"
             android:layout_width="match_parent"
@@ -144,7 +135,6 @@
         android:layout_margin="16dp"
         android:visibility="gone">
 
-        <!-- The border and background of the EditText -->
         <EditText
             android:layout_width="match_parent"
             android:layout_height="50dp"
@@ -152,7 +142,6 @@
             android:clickable="false"
             android:focusable="false" />
 
-        <!-- The TextView acting as the label on the border -->
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
@@ -165,7 +154,6 @@
             android:textColor="#000000"
             android:textSize="14sp" />
 
-        <!-- The actual EditText for input -->
         <EditText
             android:id="@+id/editTxtDate"
             android:layout_width="match_parent"
