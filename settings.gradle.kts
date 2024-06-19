@@ -23,6 +23,6 @@ dependencyResolutionManagement {
 }
 
 rootProject.name = "24B-10242-HW-1"
-include(":app")
+include(":expenseApp")
 include(":mylibrary")
 include(":dietapp")
