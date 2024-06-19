@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">ExpenseApp</string>
+    <string name="homeFragmentTitle">כמה נותר לי לבזבז?</string>
+    <string name="count">סכום</string>
+    <string name="description">תיאור</string>
+    <string name="unit">ש"ח</string>
+    <string name="titleAddText">הוספת הוצאה</string>
+    <string name="titleDialog">סכום הוצאות לחודש</string>
+    <string name="editTxtDialog">כמה תוכל/י לבזבז החודש?</string>
+    <string name="txtForNoCount">אין הוצאות</string>
+    <string name="toast">עברת את מכסת ההוצאות לחודש!</string>
+    <string name="onChart">כמות הכסף שנותר לבזבז החודש</string>
+
+
+
+
+
+
+</resources>

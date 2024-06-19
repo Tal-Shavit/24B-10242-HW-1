@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">DietApp</string>
+    <string name="homeFragmentTitle">כמה נותר לי לאכול היום?</string>
+    <string name="count">קלוריות</string>
+    <string name="description">תיאור</string>
+    <string name="unit">קלוריות</string>
+    <string name="titleAddText">הוספת ארוחה</string>
+    <string name="titleDialog">כמות קלוריות ליום</string>
+    <string name="editTxtDialog">כמות קלוריות תאכל/י היום</string>
+    <string name="txtForNoCount">עוד לא הכנסת מה אכלת היום!</string>
+    <string name="toast">עברת את מכסת הקלוריות ליום!</string>
+    <string name="onChart">סך הכל קלוריות</string>
+
+
+
+
+
+
+</resources>

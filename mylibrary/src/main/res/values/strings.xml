@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name"></string>
+    <string name="homeFragmentTitle"></string>
+    <string name="count"></string>
+    <string name="description"></string>
+    <string name="unit"></string>
+    <string name="titleAddText"></string>
+    <string name="titleDialog"></string>
+    <string name="editTxtDialog"></string>
+    <string name="txtForNoCount"></string>
+    <string name="toast"></string>
+    <string name="onChart"></string>
+
+</resources>
